@@ -4,4 +4,4 @@
 
   ![Bubble-sort-example-300px](https://user-images.githubusercontent.com/38017835/61163934-15ab9100-a4d7-11e9-8aec-f6db915c7c2b.gif)
 
-- [Reference](https://en.wikipedia.org/wiki/Bubble_sort)
+- https://en.wikipedia.org/wiki/Bubble_sort
